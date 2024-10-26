@@ -1,0 +1,7 @@
+pip install opencv-python
+pip install opencv-contrib-python
+pip install mediapipe
+pip install numpy
+pip install imutils
+#esto es para actualizar el pip para una nueva version
+pip install --upgrade pip
